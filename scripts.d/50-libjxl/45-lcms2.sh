@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_REPO="https://github.com/mm2/Little-CMS.git"
-SCRIPT_COMMIT="9b58846b21f5288d5afdf96c21955989d29a03a3"
+SCRIPT_COMMIT="3c18c1ffb0dcff40a67de62eafc3330fbd0bc925"
 
 ffbuild_enabled() {
     return 0
